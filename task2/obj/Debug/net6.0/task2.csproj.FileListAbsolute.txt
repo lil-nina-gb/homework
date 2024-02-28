@@ -1,0 +1,15 @@
+/Users/antoninaakimova/Desktop/homework/task2/bin/Debug/net6.0/task2
+/Users/antoninaakimova/Desktop/homework/task2/bin/Debug/net6.0/task2.deps.json
+/Users/antoninaakimova/Desktop/homework/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/antoninaakimova/Desktop/homework/task2/bin/Debug/net6.0/task2.dll
+/Users/antoninaakimova/Desktop/homework/task2/bin/Debug/net6.0/task2.pdb
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.dll
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.pdb
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/antoninaakimova/Desktop/homework/task2/obj/Debug/net6.0/ref/task2.dll
